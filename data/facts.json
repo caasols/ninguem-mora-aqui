@@ -1,0 +1,169 @@
+{
+  "schema": 1,
+  "snapshot": {
+    "airbnb": "2026-06-23",
+    "registry_downloaded": "2026-09-18",
+    "registry_records": 111622
+  },
+  "totals": {
+    "listings_lisboa": 17064
+  },
+  "classification": {
+    "valid": 6189,
+    "unmatched": 6428,
+    "reused_only": 3703,
+    "elsewhere_only": 313,
+    "both": 431
+  },
+  "unmatched_breakdown": {
+    "no_licence": 633,
+    "exempt": 3585,
+    "quoted_unmatched": 2210
+  },
+  "clusters": {
+    "total": 1310,
+    "listings": 5123,
+    "excluded_placeholder_listings": 58,
+    "shapes": {
+      "not in register": {
+        "clusters": 217,
+        "listings": 1027
+      },
+      "single address": {
+        "clusters": 980,
+        "listings": 3513
+      },
+      "one host, several properties": {
+        "clusters": 47,
+        "listings": 257
+      },
+      "several hosts, dispersed": {
+        "clusters": 66,
+        "listings": 326
+      }
+    }
+  },
+  "freguesias": [
+    {
+      "name": "Santa Maria Maior",
+      "listings": 3572,
+      "valid": 1784
+    },
+    {
+      "name": "Misericrdia",
+      "listings": 2588,
+      "valid": 1193
+    },
+    {
+      "name": "Arroios",
+      "listings": 2154,
+      "valid": 551
+    },
+    {
+      "name": "Santo Antnio",
+      "listings": 1486,
+      "valid": 461
+    },
+    {
+      "name": "So Vicente",
+      "listings": 1250,
+      "valid": 557
+    },
+    {
+      "name": "Estrela",
+      "listings": 974,
+      "valid": 373
+    },
+    {
+      "name": "Avenidas Novas",
+      "listings": 863,
+      "valid": 136
+    },
+    {
+      "name": "Penha de Frana",
+      "listings": 640,
+      "valid": 160
+    },
+    {
+      "name": "Campo de Ourique",
+      "listings": 473,
+      "valid": 139
+    },
+    {
+      "name": "Areeiro",
+      "listings": 466,
+      "valid": 53
+    },
+    {
+      "name": "Parque das Naes",
+      "listings": 335,
+      "valid": 96
+    },
+    {
+      "name": "Campolide",
+      "listings": 313,
+      "valid": 69
+    },
+    {
+      "name": "Alcntara",
+      "listings": 285,
+      "valid": 108
+    },
+    {
+      "name": "Belm",
+      "listings": 281,
+      "valid": 103
+    },
+    {
+      "name": "Alvalade",
+      "listings": 258,
+      "valid": 68
+    },
+    {
+      "name": "Ajuda",
+      "listings": 244,
+      "valid": 89
+    },
+    {
+      "name": "Olivais",
+      "listings": 197,
+      "valid": 46
+    },
+    {
+      "name": "So Domingos de Benfica",
+      "listings": 159,
+      "valid": 52
+    },
+    {
+      "name": "Lumiar",
+      "listings": 138,
+      "valid": 41
+    },
+    {
+      "name": "Beato",
+      "listings": 131,
+      "valid": 42
+    },
+    {
+      "name": "Marvila",
+      "listings": 106,
+      "valid": 30
+    },
+    {
+      "name": "Benfica",
+      "listings": 81,
+      "valid": 18
+    },
+    {
+      "name": "Santa Clara",
+      "listings": 37,
+      "valid": 3
+    },
+    {
+      "name": "Carnide",
+      "listings": 33,
+      "valid": 17
+    }
+  ],
+  "previous": null
+}

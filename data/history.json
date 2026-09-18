@@ -1,0 +1,21 @@
+[
+  {
+    "snapshot": "2026-06-23",
+    "registry_downloaded": "2026-09-18",
+    "registry_records": 111622,
+    "totals": {
+      "listings_lisboa": 17064
+    },
+    "classification": {
+      "valid": 6189,
+      "unmatched": 6428,
+      "reused_only": 3703,
+      "elsewhere_only": 313,
+      "both": 431
+    },
+    "clusters": {
+      "total": 1310,
+      "listings": 5123
+    }
+  }
+]
