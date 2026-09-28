@@ -2,15 +2,15 @@
   "schema": 1,
   "snapshot": {
     "airbnb": "2026-06-23",
-    "registry_downloaded": "2026-09-19",
-    "registry_records": 111645
+    "registry_downloaded": "2026-09-28",
+    "registry_records": 111812
   },
   "totals": {
     "listings_lisboa": 17064
   },
   "classification": {
-    "valid": 6189,
-    "unmatched": 6428,
+    "valid": 6188,
+    "unmatched": 6429,
     "reused_only": 3703,
     "elsewhere_only": 313,
     "both": 431
@@ -18,7 +18,7 @@
   "unmatched_breakdown": {
     "no_licence": 633,
     "exempt": 3585,
-    "quoted_unmatched": 2210
+    "quoted_unmatched": 2211
   },
   "clusters": {
     "total": 1310,
@@ -72,7 +72,7 @@
     {
       "name": "Estrela",
       "listings": 974,
-      "valid": 373
+      "valid": 372
     },
     {
       "name": "Avenidas Novas",

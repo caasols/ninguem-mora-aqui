@@ -1,14 +1,14 @@
 [
   {
     "snapshot": "2026-06-23",
-    "registry_downloaded": "2026-09-19",
-    "registry_records": 111645,
+    "registry_downloaded": "2026-09-28",
+    "registry_records": 111812,
     "totals": {
       "listings_lisboa": 17064
     },
     "classification": {
-      "valid": 6189,
-      "unmatched": 6428,
+      "valid": 6188,
+      "unmatched": 6429,
       "reused_only": 3703,
       "elsewhere_only": 313,
       "both": 431
