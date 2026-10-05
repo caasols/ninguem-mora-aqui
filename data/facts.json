@@ -2,15 +2,15 @@
   "schema": 1,
   "snapshot": {
     "airbnb": "2026-06-23",
-    "registry_downloaded": "2026-09-28",
-    "registry_records": 111812
+    "registry_downloaded": "2026-10-05",
+    "registry_records": 111869
   },
   "totals": {
     "listings_lisboa": 17064
   },
   "classification": {
-    "valid": 6188,
-    "unmatched": 6429,
+    "valid": 6185,
+    "unmatched": 6432,
     "reused_only": 3703,
     "elsewhere_only": 313,
     "both": 431
@@ -18,7 +18,7 @@
   "unmatched_breakdown": {
     "no_licence": 633,
     "exempt": 3585,
-    "quoted_unmatched": 2211
+    "quoted_unmatched": 2214
   },
   "clusters": {
     "total": 1310,
@@ -62,7 +62,7 @@
     {
       "name": "Santo Antnio",
       "listings": 1486,
-      "valid": 461
+      "valid": 460
     },
     {
       "name": "So Vicente",
@@ -72,7 +72,7 @@
     {
       "name": "Estrela",
       "listings": 974,
-      "valid": 372
+      "valid": 370
     },
     {
       "name": "Avenidas Novas",
