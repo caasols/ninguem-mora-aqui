@@ -1,169 +1,187 @@
 {
   "schema": 1,
   "snapshot": {
-    "airbnb": "2026-06-23",
-    "registry_downloaded": "2026-10-05",
-    "registry_records": 111869
+    "airbnb": "2026-09-19",
+    "registry_downloaded": "2026-10-19",
+    "registry_records": 111909
   },
   "totals": {
-    "listings_lisboa": 17064
+    "listings_lisboa": 17153
   },
   "classification": {
-    "valid": 6185,
-    "unmatched": 6432,
-    "reused_only": 3703,
-    "elsewhere_only": 313,
-    "both": 431
+    "valid": 6121,
+    "unmatched": 6709,
+    "reused_only": 3630,
+    "elsewhere_only": 312,
+    "both": 381
   },
   "unmatched_breakdown": {
-    "no_licence": 633,
-    "exempt": 3585,
-    "quoted_unmatched": 2214
+    "no_licence": 1153,
+    "exempt": 3405,
+    "quoted_unmatched": 2151
   },
   "clusters": {
-    "total": 1310,
-    "listings": 5123,
-    "excluded_placeholder_listings": 58,
+    "total": 1287,
+    "listings": 4993,
+    "excluded_placeholder_listings": 61,
     "shapes": {
       "not in register": {
-        "clusters": 217,
-        "listings": 1027
+        "clusters": 213,
+        "listings": 1012
       },
       "single address": {
-        "clusters": 980,
-        "listings": 3513
+        "clusters": 970,
+        "listings": 3452
       },
       "one host, several properties": {
-        "clusters": 47,
-        "listings": 257
+        "clusters": 44,
+        "listings": 250
       },
       "several hosts, dispersed": {
-        "clusters": 66,
-        "listings": 326
+        "clusters": 60,
+        "listings": 279
       }
     }
   },
   "freguesias": [
     {
       "name": "Santa Maria Maior",
-      "listings": 3572,
-      "valid": 1784
+      "listings": 3649,
+      "valid": 1790
     },
     {
       "name": "Misericrdia",
-      "listings": 2588,
-      "valid": 1193
+      "listings": 2662,
+      "valid": 1162
     },
     {
       "name": "Arroios",
-      "listings": 2154,
-      "valid": 551
+      "listings": 2113,
+      "valid": 545
     },
     {
       "name": "Santo Antnio",
-      "listings": 1486,
-      "valid": 460
+      "listings": 1521,
+      "valid": 452
     },
     {
       "name": "So Vicente",
-      "listings": 1250,
-      "valid": 557
+      "listings": 1227,
+      "valid": 545
     },
     {
       "name": "Estrela",
-      "listings": 974,
-      "valid": 370
+      "listings": 993,
+      "valid": 372
     },
     {
       "name": "Avenidas Novas",
-      "listings": 863,
-      "valid": 136
+      "listings": 849,
+      "valid": 132
     },
     {
       "name": "Penha de Frana",
-      "listings": 640,
-      "valid": 160
-    },
-    {
-      "name": "Campo de Ourique",
-      "listings": 473,
-      "valid": 139
+      "listings": 636,
+      "valid": 162
     },
     {
       "name": "Areeiro",
-      "listings": 466,
-      "valid": 53
+      "listings": 472,
+      "valid": 55
+    },
+    {
+      "name": "Campo de Ourique",
+      "listings": 452,
+      "valid": 139
     },
     {
       "name": "Parque das Naes",
-      "listings": 335,
-      "valid": 96
+      "listings": 328,
+      "valid": 92
     },
     {
       "name": "Campolide",
-      "listings": 313,
-      "valid": 69
+      "listings": 311,
+      "valid": 65
     },
     {
       "name": "Alcntara",
-      "listings": 285,
-      "valid": 108
+      "listings": 297,
+      "valid": 107
     },
     {
       "name": "Belm",
-      "listings": 281,
-      "valid": 103
+      "listings": 283,
+      "valid": 102
     },
     {
       "name": "Alvalade",
-      "listings": 258,
-      "valid": 68
+      "listings": 266,
+      "valid": 63
     },
     {
       "name": "Ajuda",
-      "listings": 244,
-      "valid": 89
+      "listings": 235,
+      "valid": 85
     },
     {
       "name": "Olivais",
-      "listings": 197,
-      "valid": 46
+      "listings": 199,
+      "valid": 51
     },
     {
       "name": "So Domingos de Benfica",
-      "listings": 159,
-      "valid": 52
-    },
-    {
-      "name": "Lumiar",
-      "listings": 138,
-      "valid": 41
+      "listings": 145,
+      "valid": 53
     },
     {
       "name": "Beato",
       "listings": 131,
-      "valid": 42
+      "valid": 46
+    },
+    {
+      "name": "Lumiar",
+      "listings": 131,
+      "valid": 37
     },
     {
       "name": "Marvila",
-      "listings": 106,
-      "valid": 30
+      "listings": 99,
+      "valid": 29
     },
     {
       "name": "Benfica",
-      "listings": 81,
-      "valid": 18
+      "listings": 79,
+      "valid": 17
     },
     {
       "name": "Santa Clara",
-      "listings": 37,
-      "valid": 3
+      "listings": 40,
+      "valid": 2
     },
     {
       "name": "Carnide",
-      "listings": 33,
-      "valid": 17
+      "listings": 35,
+      "valid": 18
     }
   ],
-  "previous": null
+  "previous": {
+    "snapshot": "2026-06-23",
+    "registry_downloaded": "2026-10-05",
+    "registry_records": 111869,
+    "totals": {
+      "listings_lisboa": 17064
+    },
+    "classification": {
+      "valid": 6185,
+      "unmatched": 6432,
+      "reused_only": 3703,
+      "elsewhere_only": 313,
+      "both": 431
+    },
+    "clusters": {
+      "total": 1310,
+      "listings": 5123
+    }
+  }
 }

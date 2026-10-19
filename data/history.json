@@ -17,5 +17,24 @@
       "total": 1310,
       "listings": 5123
     }
+  },
+  {
+    "snapshot": "2026-09-19",
+    "registry_downloaded": "2026-10-19",
+    "registry_records": 111909,
+    "totals": {
+      "listings_lisboa": 17153
+    },
+    "classification": {
+      "valid": 6121,
+      "unmatched": 6709,
+      "reused_only": 3630,
+      "elsewhere_only": 312,
+      "both": 381
+    },
+    "clusters": {
+      "total": 1287,
+      "listings": 4993
+    }
   }
 ]
