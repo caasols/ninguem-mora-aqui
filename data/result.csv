@@ -63,7 +63,7 @@ airbnb,61340,61340/AL,,https://www.airbnb.com/rooms/306191,Misericrdia,38.71279,
 airbnb,722,722/AL,,https://www.airbnb.com/rooms/307666,Parque das Naes,38.7787,-9.09634,1,1582924,2026-09-20,2014-12-17
 airbnb,84334,84334/AL,licença reutilizada 2,https://www.airbnb.com/rooms/307683,Santa Maria Maior,38.71143,-9.12778,0,727771,2026-09-20,2018-10-03
 airbnb,1587,AL 1587,,https://www.airbnb.com/rooms/311040,Santa Maria Maior,38.71235,-9.1275,1,1599678,2026-09-21,2013-04-23
-airbnb,1627,AL 1627,,https://www.airbnb.com/rooms/311047,Santa Maria Maior,38.71252,-9.12911,1,1599678,2026-09-21,2013-04-23
+airbnb,1627,AL 1627,sem licença,https://www.airbnb.com/rooms/311047,Santa Maria Maior,38.71252,-9.12911,1,1599678,2026-09-21,
 airbnb,46752,46752/AL,,https://www.airbnb.com/rooms/322284,Santa Maria Maior,38.70989,-9.13637,2,1650507,2026-09-21,2017-05-30
 airbnb,85271,85271/AL,,https://www.airbnb.com/rooms/327945,Santa Maria Maior,38.70943,-9.13722,0,1675942,2026-09-21,2018-10-12
 airbnb,52334,52334/AL,,https://www.airbnb.com/rooms/344035,Misericrdia,38.7114143371582,-9.146851539611816,2,1730158,2026-09-21,2017-07-21
@@ -877,7 +877,7 @@ airbnb,45578,45578/AL,licença reutilizada 9,https://www.airbnb.com/rooms/519450
 airbnb,46000,46000/AL,licença reutilizada 7,https://www.airbnb.com/rooms/5194543,Arroios,38.71949,-9.13852,1,17638903,2026-09-21,2017-05-23
 airbnb,46000,46000/AL,licença reutilizada 7,https://www.airbnb.com/rooms/5194575,Arroios,38.71829,-9.139218,1,17638903,2026-09-21,2017-05-23
 airbnb,412,412/AL,,https://www.airbnb.com/rooms/5208776,Santa Maria Maior,38.711948,-9.141905,5,2396258,2026-09-21,2012-11-08
-airbnb,15029,15029/AL,,https://www.airbnb.com/rooms/5233175,Alcntara,38.70598,-9.18471,2,8973940,2026-09-21,2015-06-03
+airbnb,15029,15029/AL,sem licença,https://www.airbnb.com/rooms/5233175,Alcntara,38.70598,-9.18471,2,8973940,2026-09-21,
 airbnb,5988,5988/AL,,https://www.airbnb.com/rooms/5236267,Santo Antnio,38.72678,-9.14589,4,6266705,2026-09-21,2015-01-30
 airbnb,52349,52349/AL,,https://www.airbnb.com/rooms/5245908,Belm,38.69746,-9.19628,1,5776233,2026-09-20,2017-07-21
 airbnb,35175,35175/AL,,https://www.airbnb.com/rooms/5248034,Estrela,38.70678,-9.15686,2,26944307,2026-09-21,2016-09-27
@@ -1418,7 +1418,7 @@ airbnb,,,sem licença,https://www.airbnb.com/rooms/9055082,Arroios,38.73122,-9.1
 airbnb,20200,20200/AL,,https://www.airbnb.com/rooms/9055284,Arroios,38.72743,-9.13268,2,34827624,2026-09-21,2015-09-28
 airbnb,40925,40925/AL,,https://www.airbnb.com/rooms/9065151,Parque das Naes,38.78209,-9.0956,1,47283836,2026-09-20,2017-03-07
 airbnb,,,sem licença,https://www.airbnb.com/rooms/9077974,Parque das Naes,38.79168,-9.09849,1,5039336,2026-09-20,
-airbnb,20998,20998/AL,,https://www.airbnb.com/rooms/9078386,Santo Antnio,38.72301,-9.14457,3,46055452,2026-09-21,2015-10-20
+airbnb,20998,20998/AL,sem licença,https://www.airbnb.com/rooms/9078386,Santo Antnio,38.72301,-9.14457,3,46055452,2026-09-21,
 airbnb,47048,47048/AL,,https://www.airbnb.com/rooms/9084125,Parque das Naes,38.78927,-9.09892,2,5039336,2026-09-20,2017-05-31
 airbnb,27393,27393/AL,,https://www.airbnb.com/rooms/9087699,Santa Maria Maior,38.71302,-9.13592,2,21173559,2026-09-21,2016-04-14
 airbnb,49473,49473/AL,,https://www.airbnb.com/rooms/9092386,Santa Maria Maior,38.71171,-9.12912,1,32293705,2026-09-21,2017-06-28
@@ -4370,7 +4370,7 @@ airbnb,79749,79749/AL,licença reutilizada 4,https://www.airbnb.com/rooms/277558
 airbnb,79749,79749/AL,licença reutilizada 4,https://www.airbnb.com/rooms/27757565,Santo Antnio,38.71966,-9.14435,1,141586881,2026-09-21,2018-08-02
 airbnb,78343,78343/AL,,https://www.airbnb.com/rooms/27774793,So Vicente,38.71755,-9.13152,2,76127721,2026-09-21,2018-07-20
 airbnb,49011,49011/AL,,https://www.airbnb.com/rooms/27776864,Misericrdia,38.71262,-9.14411,2,10487625,2026-09-21,2017-06-22
-airbnb,81481,81481/AL,,https://www.airbnb.com/rooms/27780456,Campo de Ourique,38.71932,-9.15879,1,24122117,2026-09-21,2018-08-27
+airbnb,81481,81481/AL,sem licença,https://www.airbnb.com/rooms/27780456,Campo de Ourique,38.71932,-9.15879,1,24122117,2026-09-21,
 airbnb,79888,79888/AL,,https://www.airbnb.com/rooms/27800276,Misericrdia,38.71321,-9.1472,3,56201244,2026-09-21,2018-08-03
 airbnb,79720,79720/AL,,https://www.airbnb.com/rooms/27810300,Belm,38.69509,-9.21878,0,210004192,2026-09-20,2018-08-02
 airbnb,77576,77576/AL,sem licença,https://www.airbnb.com/rooms/27810384,Santa Maria Maior,38.70961,-9.13473,1,106306229,2026-09-21,
@@ -7643,7 +7643,7 @@ airbnb,,Exempt,sem licença,https://www.airbnb.com/rooms/623601800318161684,Alcn
 airbnb,112021,112021/AL,licença reutilizada 2,https://www.airbnb.com/rooms/623684767289024238,Misericrdia,38.708771,-9.149179,0,214107680,2026-09-21,2020-08-20
 airbnb,125028,125028/AL,,https://www.airbnb.com/rooms/623770737756681631,Belm,38.69844,-9.19718,2,458400132,2026-09-20,2022-04-02
 airbnb,,Exempt,sem licença,https://www.airbnb.com/rooms/624332685173608077,Santa Maria Maior,38.71401,-9.13669,1,434934592,2026-09-21,
-airbnb,124919,124919/AL,,https://www.airbnb.com/rooms/624360665207361589,Belm,38.698116,-9.195279,0,165368005,2026-09-20,2022-03-31
+airbnb,124919,124919/AL,sem licença,https://www.airbnb.com/rooms/624360665207361589,Belm,38.698116,-9.195279,0,165368005,2026-09-20,
 airbnb,123051,123051/AL,,https://www.airbnb.com/rooms/624377857328676709,Parque das Naes,38.75744,-9.0945,2,22031013,2026-09-20,2022-02-09
 airbnb,105245,105245/AL,,https://www.airbnb.com/rooms/624378288219941867,Santa Maria Maior,38.71459,-9.14028,1,427195027,2026-09-21,2019-11-22
 airbnb,67315,67315/AL,licença reutilizada 2,https://www.airbnb.com/rooms/624456994600986334,Estrela,38.70922,-9.15829,2,24865381,2026-09-21,2018-03-22
@@ -9437,7 +9437,7 @@ airbnb,31814,31814/AL,,https://www.airbnb.com/rooms/944735092847897760,Estrela,3
 airbnb,57878,57878,sem licença,https://www.airbnb.com/rooms/944769905193903619,Estrela,38.7094676,-9.1578757,1,12318654,2026-09-22,
 airbnb,,Exempt,sem licença,https://www.airbnb.com/rooms/944793638432454025,Ajuda,38.7039446,-9.1915804,1,528213991,2026-09-22,
 airbnb,82149,82149/AL,sem licença,https://www.airbnb.com/rooms/944827698295430385,Areeiro,38.7382344,-9.1339702,1,505424337,2026-09-22,
-airbnb,88073,88073/AL,,https://www.airbnb.com/rooms/944865999580634960,So Domingos de Benfica,38.74661,-9.16967,4,29444462,2026-09-22,2018-10-19
+airbnb,88073,88073/AL,sem licença,https://www.airbnb.com/rooms/944865999580634960,So Domingos de Benfica,38.74661,-9.16967,4,29444462,2026-09-22,
 airbnb,22789,22789/AL,,https://www.airbnb.com/rooms/944936583981314111,So Vicente,38.72045,-9.12536,1,519865919,2026-09-21,2015-12-16
 airbnb,212323474,212323474,sem licença,https://www.airbnb.com/rooms/945330330907429459,Arroios,38.72777,-9.14276,1,125039860,2026-09-22,
 airbnb,,Exempt,sem licença,https://www.airbnb.com/rooms/945452052193004591,So Domingos de Benfica,38.74525,-9.16849,2,90082366,2026-09-20,
@@ -9490,8 +9490,8 @@ airbnb,72678,72678/AL,sem licença,https://www.airbnb.com/rooms/9513852359814141
 airbnb,,Exempt,sem licença,https://www.airbnb.com/rooms/951435558762302814,Estrela,38.7078056,-9.157466200000002,1,47633715,2026-09-21,
 airbnb,,Exempt,sem licença,https://www.airbnb.com/rooms/951501508366383945,Estrela,38.7078056,-9.157466200000002,1,47633715,2026-09-21,
 airbnb,49017,49017/AL,licença invalida (distancia 3.595341500514949);licença reutilizada 4,https://www.airbnb.com/rooms/952938572307745065,Misericrdia,38.7100441,-9.1513378,1,134257971,2026-09-21,2017-06-22
-airbnb,88084,88084/AL,,https://www.airbnb.com/rooms/953463591859368364,So Domingos de Benfica,38.74482,-9.17024,4,29444462,2026-09-22,2018-10-19
-airbnb,88082,88082/AL,,https://www.airbnb.com/rooms/953463952681454039,So Domingos de Benfica,38.74466,-9.16861,4,29444462,2026-09-22,2018-10-19
+airbnb,88084,88084/AL,sem licença,https://www.airbnb.com/rooms/953463591859368364,So Domingos de Benfica,38.74482,-9.17024,4,29444462,2026-09-22,
+airbnb,88082,88082/AL,sem licença,https://www.airbnb.com/rooms/953463952681454039,So Domingos de Benfica,38.74466,-9.16861,4,29444462,2026-09-22,
 airbnb,30735,30735/AL,licença reutilizada 4,https://www.airbnb.com/rooms/953470640913326663,Alvalade,38.74624,-9.13326,1,523752765,2026-09-20,2016-06-20
 airbnb,30735,30735/AL,licença reutilizada 4,https://www.airbnb.com/rooms/953496587467495369,Alvalade,38.74784,-9.13321,1,523752765,2026-09-20,2016-06-20
 airbnb,342890,342890/AL,sem licença,https://www.airbnb.com/rooms/953497423084155268,Parque das Naes,38.76364,-9.09776,2,530649733,2026-09-22,
@@ -10331,9 +10331,9 @@ airbnb,100253,100253/AL,,https://www.airbnb.com/rooms/1086216792978966572,Estrel
 airbnb,,Exempt,sem licença,https://www.airbnb.com/rooms/1086262933214740926,Areeiro,38.74469,-9.13676,1,24121002,2026-09-21,
 airbnb,52251,52251/AL,sem licença,https://www.airbnb.com/rooms/1086380476179754005,Misericrdia,38.70982,-9.14516,1,11814217,2026-09-21,
 airbnb,83680,83680/AL,sem licença,https://www.airbnb.com/rooms/1086699594612272049,Santa Maria Maior,38.71218,-9.12694,1,436774995,2026-09-21,
-airbnb,88075,88075/AL,,https://www.airbnb.com/rooms/1086838999067731815,So Domingos de Benfica,38.74465,-9.1689,4,29444462,2026-09-22,2018-10-19
-airbnb,88085,88085/AL,,https://www.airbnb.com/rooms/1086839274810047412,So Domingos de Benfica,38.74593,-9.16845,4,29444462,2026-09-22,2018-10-19
-airbnb,88080,88080/AL,,https://www.airbnb.com/rooms/1086839551578309782,So Domingos de Benfica,38.74509,-9.17012,4,29444462,2026-09-22,2018-10-19
+airbnb,88075,88075/AL,sem licença,https://www.airbnb.com/rooms/1086838999067731815,So Domingos de Benfica,38.74465,-9.1689,4,29444462,2026-09-22,
+airbnb,88085,88085/AL,sem licença,https://www.airbnb.com/rooms/1086839274810047412,So Domingos de Benfica,38.74593,-9.16845,4,29444462,2026-09-22,
+airbnb,88080,88080/AL,sem licença,https://www.airbnb.com/rooms/1086839551578309782,So Domingos de Benfica,38.74509,-9.17012,4,29444462,2026-09-22,
 airbnb,21453,21453/AL,,https://www.airbnb.com/rooms/1086857091230348863,Santa Maria Maior,38.71057,-9.13661,2,59156390,2026-09-21,2015-11-02
 airbnb,,Exempt,sem licença,https://www.airbnb.com/rooms/1086910822810744347,Alvalade,38.7554,-9.14287,3,419162816,2026-09-22,
 airbnb,88424,88424/AL,,https://www.airbnb.com/rooms/1086913343592748675,Misericrdia,38.71587,-9.14873,3,62521369,2026-09-21,2018-11-16

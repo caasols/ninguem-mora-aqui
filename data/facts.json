@@ -2,15 +2,15 @@
   "schema": 1,
   "snapshot": {
     "airbnb": "2026-09-19",
-    "registry_downloaded": "2026-10-19",
-    "registry_records": 111909
+    "registry_downloaded": "2026-10-26",
+    "registry_records": 111936
   },
   "totals": {
     "listings_lisboa": 17153
   },
   "classification": {
-    "valid": 6121,
-    "unmatched": 6709,
+    "valid": 6110,
+    "unmatched": 6720,
     "reused_only": 3630,
     "elsewhere_only": 312,
     "both": 381
@@ -18,7 +18,7 @@
   "unmatched_breakdown": {
     "no_licence": 1153,
     "exempt": 3405,
-    "quoted_unmatched": 2151
+    "quoted_unmatched": 2162
   },
   "clusters": {
     "total": 1287,
@@ -47,7 +47,7 @@
     {
       "name": "Santa Maria Maior",
       "listings": 3649,
-      "valid": 1790
+      "valid": 1789
     },
     {
       "name": "Misericrdia",
@@ -62,7 +62,7 @@
     {
       "name": "Santo Antnio",
       "listings": 1521,
-      "valid": 452
+      "valid": 451
     },
     {
       "name": "So Vicente",
@@ -92,7 +92,7 @@
     {
       "name": "Campo de Ourique",
       "listings": 452,
-      "valid": 139
+      "valid": 138
     },
     {
       "name": "Parque das Naes",
@@ -107,12 +107,12 @@
     {
       "name": "Alcntara",
       "listings": 297,
-      "valid": 107
+      "valid": 106
     },
     {
       "name": "Belm",
       "listings": 283,
-      "valid": 102
+      "valid": 101
     },
     {
       "name": "Alvalade",
@@ -132,7 +132,7 @@
     {
       "name": "So Domingos de Benfica",
       "listings": 145,
-      "valid": 53
+      "valid": 47
     },
     {
       "name": "Beato",
